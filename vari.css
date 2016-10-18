@@ -17,7 +17,7 @@ body
 	padding:0;
 	
 	background-color:#100306;
-	background-image:url(../../imgs/bg_login_blockquote.png);
+	background-image:url(https://github.com/qualityowns/Pulse-Sec/bg_login_blockquote.png);
 	background-repeat:no-repeat;
 	
 	}
@@ -109,7 +109,7 @@ input[type=text], input[type=password]
 	-moz-border-radius: 6px;
 	border-radius: 6px;
 	
-	background-image:url(../../imgs/login_lg_img.jpg);
+	background-image:url(https://github.com/qualityowns/Pulse-Sec/login_lg_img.jpg);
 	background-repeat:no-repeat;
 	background-position: 0px -7px;
 	}
